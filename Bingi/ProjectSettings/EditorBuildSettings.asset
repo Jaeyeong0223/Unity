@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: d2265d29e9557524899eb781b5eaa8b5
+  - enabled: 1
+    path: Assets/Scenes/Bear.unity
+    guid: a5157a332dca64047990ad1f24f5f4cf
+  - enabled: 1
+    path: Assets/Scenes/BearGame.unity
+    guid: 2e1a2dc3e14d6424c920df69173e3c64
+  - enabled: 1
+    path: Assets/Scenes/Crow.unity
+    guid: 5041222beed01f942aeabe41344c49c2
+  - enabled: 1
+    path: Assets/Scenes/CrowGame.unity
+    guid: 436f115bb35fe8b4ca7acafe1fc62b34
+  - enabled: 1
+    path: Assets/Scenes/DogGod.unity
+    guid: 0a970107884d98445985fd84e5b058d3
+  - enabled: 1
+    path: Assets/Scenes/Ending.unity
+    guid: 02e1734c803a3b64ba913047b1dc56d8
+  - enabled: 1
+    path: Assets/Scenes/Frog.unity
+    guid: 860df4f4dc5667d4eba54937645e67b8
+  - enabled: 1
+    path: Assets/Scenes/FrogGame.unity
+    guid: e6c21196679631a4f9bd1da60e0fa854
+  - enabled: 1
+    path: Assets/Scenes/Prologue.unity
+    guid: 2a6aa9910f5ebee4ea166a3baae53635
+  m_configObjects: {}
